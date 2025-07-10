@@ -19,9 +19,9 @@
 ## 2. Prompt Engineering
 - 질문-응답 분석
 - 질문 정제 프롬프트 템플릿 제작
-  : config.yaml에 위치
-  : 대상정보 증강 템플릿
-  : 시간정보 명시 템플릿
+  - config.yaml에 위치
+  - 대상정보 증강 템플릿
+  - 시간정보 명시 템플릿
 
 ## 3. Graph Database
 - node
