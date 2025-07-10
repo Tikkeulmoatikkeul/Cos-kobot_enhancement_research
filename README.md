@@ -19,16 +19,22 @@
 ## 2. Prompt Engineering
 - 질문-응답 분석
 - 질문 정제 프롬프트 템플릿 제작
+  : config.yaml에 위치
   : 대상정보 증강 템플릿
   : 시간정보 명시 템플릿
 
 ## 3. Graph Database
-- node (통계노드, 통계표노드, 통계주기노드)
+- node
+  통계노드: node_survey.csv (완성)
+  통계표노드 : node_table.csv
+  통계주기노드 : node_period.csv
 - edge
+  고민.....
+  
 
 
 
-🛠 Tech Stack
+**Tech Stack**
 
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=python&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-007ACC?style=flat&logo=figma&logoColor=white)
