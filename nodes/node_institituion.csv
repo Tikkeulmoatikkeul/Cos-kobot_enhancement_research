@@ -1,0 +1,404 @@
+﻿INSTITUTION_ID,INSTITUTION_NM,TYPE,LABEL
+INST_0001,(사)한국디자인산업연합회,협회/조합,institution
+INST_0002,(사)한국여신전문금융업협회,협회/조합,institution
+INST_0003,(사)한국여행업협회,협회/조합,institution
+INST_0004,(사)한국자동차튜닝산업협회,협회/조합,institution
+INST_0005,(재)한국정보통신산업연구원,연구기관,institution
+INST_0006,(재)한국청년기업가정신재단,기타기관,institution
+INST_0007,강원특별자치도,지방자치단체,institution
+INST_0008,강원특별자치도 강릉시,지방자치단체,institution
+INST_0009,강원특별자치도 고성군,지방자치단체,institution
+INST_0010,강원특별자치도 동해시,지방자치단체,institution
+INST_0011,강원특별자치도 삼척시,지방자치단체,institution
+INST_0012,강원특별자치도 속초시,지방자치단체,institution
+INST_0013,강원특별자치도 양구군,지방자치단체,institution
+INST_0014,강원특별자치도 양양군,지방자치단체,institution
+INST_0015,강원특별자치도 영월군,지방자치단체,institution
+INST_0016,강원특별자치도 원주시,지방자치단체,institution
+INST_0017,강원특별자치도 인제군,지방자치단체,institution
+INST_0018,강원특별자치도 정선군,지방자치단체,institution
+INST_0019,강원특별자치도 철원군,지방자치단체,institution
+INST_0020,강원특별자치도 춘천시,지방자치단체,institution
+INST_0021,강원특별자치도 태백시,지방자치단체,institution
+INST_0022,강원특별자치도 평창군,지방자치단체,institution
+INST_0023,강원특별자치도 홍천군,지방자치단체,institution
+INST_0024,강원특별자치도 화천군,지방자치단체,institution
+INST_0025,강원특별자치도 횡성군,지방자치단체,institution
+INST_0026,개인정보 보호위원회,중앙행정기관,institution
+INST_0027,건강보험심사평가원,기타기관,institution
+INST_0028,건축공간연구원,연구기관,institution
+INST_0029,검찰청,중앙행정기관,institution
+INST_0030,경기도,지방자치단체,institution
+INST_0031,경기도 가평군,지방자치단체,institution
+INST_0032,경기도 고양시,지방자치단체,institution
+INST_0033,경기도 과천시,지방자치단체,institution
+INST_0034,경기도 광명시,지방자치단체,institution
+INST_0035,경기도 광주시,지방자치단체,institution
+INST_0036,경기도 구리시,지방자치단체,institution
+INST_0037,경기도 군포시,지방자치단체,institution
+INST_0038,경기도 김포시,지방자치단체,institution
+INST_0039,경기도 남양주시,지방자치단체,institution
+INST_0040,경기도 동두천시,지방자치단체,institution
+INST_0041,경기도 부천시,지방자치단체,institution
+INST_0042,경기도 성남시,지방자치단체,institution
+INST_0043,경기도 수원시,지방자치단체,institution
+INST_0044,경기도 시흥시,지방자치단체,institution
+INST_0045,경기도 안산시,지방자치단체,institution
+INST_0046,경기도 안성시,지방자치단체,institution
+INST_0047,경기도 안양시,지방자치단체,institution
+INST_0048,경기도 양주시,지방자치단체,institution
+INST_0049,경기도 양평군,지방자치단체,institution
+INST_0050,경기도 여주시,지방자치단체,institution
+INST_0051,경기도 연천군,지방자치단체,institution
+INST_0052,경기도 오산시,지방자치단체,institution
+INST_0053,경기도 용인시,지방자치단체,institution
+INST_0054,경기도 의왕시,지방자치단체,institution
+INST_0055,경기도 의정부시,지방자치단체,institution
+INST_0056,경기도 이천시,지방자치단체,institution
+INST_0057,경기도 파주시,지방자치단체,institution
+INST_0058,경기도 평택시,지방자치단체,institution
+INST_0059,경기도 포천시,지방자치단체,institution
+INST_0060,경기도 하남시,지방자치단체,institution
+INST_0061,경기도 화성시,지방자치단체,institution
+INST_0062,경상남도,지방자치단체,institution
+INST_0063,경상남도 거제시,지방자치단체,institution
+INST_0064,경상남도 거창군,지방자치단체,institution
+INST_0065,경상남도 고성군,지방자치단체,institution
+INST_0066,경상남도 김해시,지방자치단체,institution
+INST_0067,경상남도 남해군,지방자치단체,institution
+INST_0068,경상남도 밀양시,지방자치단체,institution
+INST_0069,경상남도 사천시,지방자치단체,institution
+INST_0070,경상남도 산청군,지방자치단체,institution
+INST_0071,경상남도 양산시,지방자치단체,institution
+INST_0072,경상남도 의령군,지방자치단체,institution
+INST_0073,경상남도 진주시,지방자치단체,institution
+INST_0074,경상남도 창녕군,지방자치단체,institution
+INST_0075,경상남도 창원시,지방자치단체,institution
+INST_0076,경상남도 통영시,지방자치단체,institution
+INST_0077,경상남도 하동군,지방자치단체,institution
+INST_0078,경상남도 함안군,지방자치단체,institution
+INST_0079,경상남도 함양군,지방자치단체,institution
+INST_0080,경상남도 합천군,지방자치단체,institution
+INST_0081,경상북도,지방자치단체,institution
+INST_0082,경상북도 경산시,지방자치단체,institution
+INST_0083,경상북도 경주시,지방자치단체,institution
+INST_0084,경상북도 고령군,지방자치단체,institution
+INST_0085,경상북도 구미시,지방자치단체,institution
+INST_0086,경상북도 김천시,지방자치단체,institution
+INST_0087,경상북도 문경시,지방자치단체,institution
+INST_0088,경상북도 봉화군,지방자치단체,institution
+INST_0089,경상북도 상주시,지방자치단체,institution
+INST_0090,경상북도 성주군,지방자치단체,institution
+INST_0091,경상북도 안동시,지방자치단체,institution
+INST_0092,경상북도 영덕군,지방자치단체,institution
+INST_0093,경상북도 영양군,지방자치단체,institution
+INST_0094,경상북도 영주시,지방자치단체,institution
+INST_0095,경상북도 영천시,지방자치단체,institution
+INST_0096,경상북도 예천군,지방자치단체,institution
+INST_0097,경상북도 울릉군,지방자치단체,institution
+INST_0098,경상북도 울진군,지방자치단체,institution
+INST_0099,경상북도 의성군,지방자치단체,institution
+INST_0100,경상북도 청도군,지방자치단체,institution
+INST_0101,경상북도 청송군,지방자치단체,institution
+INST_0102,경상북도 칠곡군,지방자치단체,institution
+INST_0103,경상북도 포항시,지방자치단체,institution
+INST_0104,경찰청,중앙행정기관,institution
+INST_0105,고용노동부,중앙행정기관,institution
+INST_0106,공정거래위원회,중앙행정기관,institution
+INST_0107,과학기술정보통신부,중앙행정기관,institution
+INST_0108,과학기술정책연구원,연구기관,institution
+INST_0109,관세청,중앙행정기관,institution
+INST_0110,광주광역시,지방자치단체,institution
+INST_0111,광주광역시 광산구,지방자치단체,institution
+INST_0112,광주광역시 남구,지방자치단체,institution
+INST_0113,광주광역시 동구,지방자치단체,institution
+INST_0114,광주광역시 북구,지방자치단체,institution
+INST_0115,광주광역시 서구,지방자치단체,institution
+INST_0116,교육부,중앙행정기관,institution
+INST_0117,국가보훈부,중앙행정기관,institution
+INST_0118,국가인권위원회,중앙행정기관,institution
+INST_0119,국가평생교육진흥원,기타기관,institution
+INST_0120,국립공원공단,공사/공단,institution
+INST_0121,국립중앙의료원,기타기관,institution
+INST_0122,국무조정실,중앙행정기관,institution
+INST_0123,국민건강보험공단,공사/공단,institution
+INST_0124,국민연금공단,공사/공단,institution
+INST_0125,국방부,중앙행정기관,institution
+INST_0126,국세청,중앙행정기관,institution
+INST_0127,국토교통부,중앙행정기관,institution
+INST_0128,국토안전관리원,공사/공단,institution
+INST_0129,국토연구원,연구기관,institution
+INST_0130,근로복지공단,공사/공단,institution
+INST_0131,기상청,중앙행정기관,institution
+INST_0132,기획재정부,중앙행정기관,institution
+INST_0133,농림축산식품부,중앙행정기관,institution
+INST_0134,농촌진흥청,중앙행정기관,institution
+INST_0135,대구광역시,지방자치단체,institution
+INST_0136,대구광역시 군위군,지방자치단체,institution
+INST_0137,대구광역시 남구,지방자치단체,institution
+INST_0138,대구광역시 달서구,지방자치단체,institution
+INST_0139,대구광역시 달성군,지방자치단체,institution
+INST_0140,대구광역시 동구,지방자치단체,institution
+INST_0141,대구광역시 북구,지방자치단체,institution
+INST_0142,대구광역시 서구,지방자치단체,institution
+INST_0143,대구광역시 수성구,지방자치단체,institution
+INST_0144,대구광역시 중구,지방자치단체,institution
+INST_0145,대전광역시,지방자치단체,institution
+INST_0146,대전광역시 대덕구,지방자치단체,institution
+INST_0147,대전광역시 동구,지방자치단체,institution
+INST_0148,대전광역시 서구,지방자치단체,institution
+INST_0149,대전광역시 유성구,지방자치단체,institution
+INST_0150,대전광역시 중구,지방자치단체,institution
+INST_0151,대한건설협회,협회/조합,institution
+INST_0152,대한기계설비건설협회,협회/조합,institution
+INST_0153,대한법률구조공단,공사/공단,institution
+INST_0154,대한적십자사,기타기관,institution
+INST_0155,대한전문건설협회,협회/조합,institution
+INST_0156,문화재청,중앙행정기관,institution
+INST_0157,문화체육관광부,중앙행정기관,institution
+INST_0158,방송통신위원회,중앙행정기관,institution
+INST_0159,방위사업청,중앙행정기관,institution
+INST_0160,법무부,중앙행정기관,institution
+INST_0161,병무청,중앙행정기관,institution
+INST_0162,보건복지부,중앙행정기관,institution
+INST_0163,보험개발원,금융기관,institution
+INST_0164,부산광역시,지방자치단체,institution
+INST_0165,부산광역시,중앙행정기관,institution
+INST_0166,부산광역시 강서구,지방자치단체,institution
+INST_0167,부산광역시 금정구,지방자치단체,institution
+INST_0168,부산광역시 기장군,지방자치단체,institution
+INST_0169,부산광역시 남구,지방자치단체,institution
+INST_0170,부산광역시 동구,지방자치단체,institution
+INST_0171,부산광역시 동래구,지방자치단체,institution
+INST_0172,부산광역시 부산진구,지방자치단체,institution
+INST_0173,부산광역시 북구,지방자치단체,institution
+INST_0174,부산광역시 사상구,지방자치단체,institution
+INST_0175,부산광역시 사하구,지방자치단체,institution
+INST_0176,부산광역시 서구,지방자치단체,institution
+INST_0177,부산광역시 수영구,지방자치단체,institution
+INST_0178,부산광역시 연제구,지방자치단체,institution
+INST_0179,부산광역시 영도구,지방자치단체,institution
+INST_0180,부산광역시 중구,지방자치단체,institution
+INST_0181,부산광역시 해운대구,지방자치단체,institution
+INST_0182,부산항만공사,공사/공단,institution
+INST_0183,북한이탈주민지원재단(남북하나재단),기타기관,institution
+INST_0184,산림청,중앙행정기관,institution
+INST_0185,산업연구원,연구기관,institution
+INST_0186,산업통상자원부,중앙행정기관,institution
+INST_0187,생명보험협회,협회/조합,institution
+INST_0188,서울특별시,지방자치단체,institution
+INST_0189,서울특별시 강남구,지방자치단체,institution
+INST_0190,서울특별시 강동구,지방자치단체,institution
+INST_0191,서울특별시 강북구,지방자치단체,institution
+INST_0192,서울특별시 강서구,지방자치단체,institution
+INST_0193,서울특별시 관악구,지방자치단체,institution
+INST_0194,서울특별시 광진구,지방자치단체,institution
+INST_0195,서울특별시 구로구,지방자치단체,institution
+INST_0196,서울특별시 금천구,지방자치단체,institution
+INST_0197,서울특별시 노원구,지방자치단체,institution
+INST_0198,서울특별시 도봉구,지방자치단체,institution
+INST_0199,서울특별시 동대문구,지방자치단체,institution
+INST_0200,서울특별시 동작구,지방자치단체,institution
+INST_0201,서울특별시 마포구,지방자치단체,institution
+INST_0202,서울특별시 서대문구,지방자치단체,institution
+INST_0203,서울특별시 서초구,지방자치단체,institution
+INST_0204,서울특별시 성동구,지방자치단체,institution
+INST_0205,서울특별시 성북구,지방자치단체,institution
+INST_0206,서울특별시 송파구,지방자치단체,institution
+INST_0207,서울특별시 양천구,지방자치단체,institution
+INST_0208,서울특별시 영등포구,지방자치단체,institution
+INST_0209,서울특별시 용산구,지방자치단체,institution
+INST_0210,서울특별시 은평구,지방자치단체,institution
+INST_0211,서울특별시 종로구,지방자치단체,institution
+INST_0212,서울특별시 중구,지방자치단체,institution
+INST_0213,서울특별시 중랑구,지방자치단체,institution
+INST_0214,세종특별자치시,지방자치단체,institution
+INST_0215,소방청,중앙행정기관,institution
+INST_0216,소상공인시장진흥공단,공사/공단,institution
+INST_0217,수산업협동조합중앙회,협회/조합,institution
+INST_0218,식품의약품안전처,중앙행정기관,institution
+INST_0219,신용보증기금,공사/공단,institution
+INST_0220,아동권리보장원,기타기관,institution
+INST_0221,에너지경제연구원,연구기관,institution
+INST_0222,여성가족부,중앙행정기관,institution
+INST_0223,예금보험공사,공사/공단,institution
+INST_0224,울산광역시,지방자치단체,institution
+INST_0225,울산광역시 남구,지방자치단체,institution
+INST_0226,울산광역시 동구,지방자치단체,institution
+INST_0227,울산광역시 북구,지방자치단체,institution
+INST_0228,울산광역시 울주군,지방자치단체,institution
+INST_0229,울산광역시 중구,지방자치단체,institution
+INST_0230,인사혁신처,중앙행정기관,institution
+INST_0231,인천광역시,지방자치단체,institution
+INST_0232,인천광역시 강화군,지방자치단체,institution
+INST_0233,인천광역시 계양구,지방자치단체,institution
+INST_0234,인천광역시 남동구,지방자치단체,institution
+INST_0235,인천광역시 동구,지방자치단체,institution
+INST_0236,인천광역시 미추홀구,지방자치단체,institution
+INST_0237,인천광역시 부평구,지방자치단체,institution
+INST_0238,인천광역시 서구,지방자치단체,institution
+INST_0239,인천광역시 연수구,지방자치단체,institution
+INST_0240,인천광역시 옹진군,지방자치단체,institution
+INST_0241,인천광역시 중구,지방자치단체,institution
+INST_0242,재단법인 여성기업종합지원센터,기타기관,institution
+INST_0243,전라남도,지방자치단체,institution
+INST_0244,전라남도 강진군,지방자치단체,institution
+INST_0245,전라남도 고흥군,지방자치단체,institution
+INST_0246,전라남도 곡성군,지방자치단체,institution
+INST_0247,전라남도 광양시,지방자치단체,institution
+INST_0248,전라남도 구례군,지방자치단체,institution
+INST_0249,전라남도 나주시,지방자치단체,institution
+INST_0250,전라남도 담양군,지방자치단체,institution
+INST_0251,전라남도 목포시,지방자치단체,institution
+INST_0252,전라남도 무안군,지방자치단체,institution
+INST_0253,전라남도 보성군,지방자치단체,institution
+INST_0254,전라남도 순천시,지방자치단체,institution
+INST_0255,전라남도 신안군,지방자치단체,institution
+INST_0256,전라남도 여수시,지방자치단체,institution
+INST_0257,전라남도 영광군,지방자치단체,institution
+INST_0258,전라남도 영암군,지방자치단체,institution
+INST_0259,전라남도 완도군,지방자치단체,institution
+INST_0260,전라남도 장성군,지방자치단체,institution
+INST_0261,전라남도 장흥군,지방자치단체,institution
+INST_0262,전라남도 진도군,지방자치단체,institution
+INST_0263,전라남도 함평군,지방자치단체,institution
+INST_0264,전라남도 해남군,지방자치단체,institution
+INST_0265,전라남도 화순군,지방자치단체,institution
+INST_0266,전북특별자치도,지방자치단체,institution
+INST_0267,전북특별자치도 고창군,지방자치단체,institution
+INST_0268,전북특별자치도 군산시,지방자치단체,institution
+INST_0269,전북특별자치도 김제시,지방자치단체,institution
+INST_0270,전북특별자치도 남원시,지방자치단체,institution
+INST_0271,전북특별자치도 무주군,지방자치단체,institution
+INST_0272,전북특별자치도 부안군,지방자치단체,institution
+INST_0273,전북특별자치도 순창군,지방자치단체,institution
+INST_0274,전북특별자치도 완주군,지방자치단체,institution
+INST_0275,전북특별자치도 익산시,지방자치단체,institution
+INST_0276,전북특별자치도 임실군,지방자치단체,institution
+INST_0277,전북특별자치도 장수군,지방자치단체,institution
+INST_0278,전북특별자치도 전주시,지방자치단체,institution
+INST_0279,전북특별자치도 정읍시,지방자치단체,institution
+INST_0280,전북특별자치도 진안군,지방자치단체,institution
+INST_0281,정보통신정책연구원,연구기관,institution
+INST_0282,제주특별자치도,지방자치단체,institution
+INST_0283,조달청,중앙행정기관,institution
+INST_0284,주택도시보증공사,공사/공단,institution
+INST_0285,중소기업기술정보진흥원,연구기관,institution
+INST_0286,중소기업은행,금융기관,institution
+INST_0287,중소기업중앙회,협회/조합,institution
+INST_0288,중소벤처기업부,중앙행정기관,institution
+INST_0289,질병관리청,중앙행정기관,institution
+INST_0290,축산물품질평가원,공사/공단,institution
+INST_0291,충청남도,지방자치단체,institution
+INST_0292,충청남도 계룡시,지방자치단체,institution
+INST_0293,충청남도 공주시,지방자치단체,institution
+INST_0294,충청남도 금산군,지방자치단체,institution
+INST_0295,충청남도 논산시,지방자치단체,institution
+INST_0296,충청남도 당진시,지방자치단체,institution
+INST_0297,충청남도 보령시,지방자치단체,institution
+INST_0298,충청남도 부여군,지방자치단체,institution
+INST_0299,충청남도 서산시,지방자치단체,institution
+INST_0300,충청남도 서천군,지방자치단체,institution
+INST_0301,충청남도 아산시,지방자치단체,institution
+INST_0302,충청남도 예산군,지방자치단체,institution
+INST_0303,충청남도 천안시,지방자치단체,institution
+INST_0304,충청남도 청양군,지방자치단체,institution
+INST_0305,충청남도 태안군,지방자치단체,institution
+INST_0306,충청남도 홍성군,지방자치단체,institution
+INST_0307,충청북도,지방자치단체,institution
+INST_0308,충청북도 괴산군,지방자치단체,institution
+INST_0309,충청북도 단양군,지방자치단체,institution
+INST_0310,충청북도 보은군,지방자치단체,institution
+INST_0311,충청북도 영동군,지방자치단체,institution
+INST_0312,충청북도 옥천군,지방자치단체,institution
+INST_0313,충청북도 음성군,지방자치단체,institution
+INST_0314,충청북도 제천시,지방자치단체,institution
+INST_0315,충청북도 증평군,지방자치단체,institution
+INST_0316,충청북도 진천군,지방자치단체,institution
+INST_0317,충청북도 청주시,지방자치단체,institution
+INST_0318,충청북도 충주시,지방자치단체,institution
+INST_0319,통계청,중앙행정기관,institution
+INST_0320,통일부,중앙행정기관,institution
+INST_0321,특허청,중앙행정기관,institution
+INST_0322,한국가스안전공사,공사/공단,institution
+INST_0323,한국거래소,금융기관,institution
+INST_0324,한국건설기술연구원,연구기관,institution
+INST_0325,한국건설엔지니어링협회,협회/조합,institution
+INST_0326,한국고용정보원,기타기관,institution
+INST_0327,한국공간정보산업협회,협회/조합,institution
+INST_0328,한국공정거래조정원,기타기관,institution
+INST_0329,한국공항공사,공사/공단,institution
+INST_0330,한국과학기술연구원,연구기관,institution
+INST_0331,한국관광공사,공사/공단,institution
+INST_0332,한국광해광업공단,공사/공단,institution
+INST_0333,한국교육개발원,연구기관,institution
+INST_0334,한국교통안전공단,공사/공단,institution
+INST_0335,한국교통연구원,연구기관,institution
+INST_0336,한국국토정보공사,공사/공단,institution
+INST_0337,한국금융투자협회,협회/조합,institution
+INST_0338,한국기계산업진흥회,협회/조합,institution
+INST_0339,한국기상산업기술원,기타기관,institution
+INST_0340,한국노동연구원,연구기관,institution
+INST_0341,한국노인인력개발원,기타기관,institution
+INST_0342,한국농어촌공사,공사/공단,institution
+INST_0343,한국도로공사,공사/공단,institution
+INST_0344,한국로봇산업협회,협회/조합,institution
+INST_0345,한국무역보험공사,공사/공단,institution
+INST_0346,한국무역협회,협회/조합,institution
+INST_0347,한국문화관광연구원,연구기관,institution
+INST_0348,한국문화예술위원회,기타기관,institution
+INST_0349,한국방송광고진흥공사,공사/공단,institution
+INST_0350,한국방위산업진흥회,기타기관,institution
+INST_0351,한국법제연구원,연구기관,institution
+INST_0352,한국보건사회연구원,연구기관,institution
+INST_0353,한국보건산업진흥원,연구기관,institution
+INST_0354,한국부동산원,기타기관,institution
+INST_0355,한국사학진흥재단,기타기관,institution
+INST_0356,한국사회보장정보원,기타기관,institution
+INST_0357,한국산업단지공단,공사/공단,institution
+INST_0358,한국산업안전보건공단,공사/공단,institution
+INST_0359,한국산업은행,금융기관,institution
+INST_0360,한국산업인력공단,공사/공단,institution
+INST_0361,한국생명공학연구원,연구기관,institution
+INST_0362,한국생산성본부,기타기관,institution
+INST_0363,한국석유공사,공사/공단,institution
+INST_0364,한국세라믹기술원,연구기관,institution
+INST_0365,한국소프트웨어산업협회,협회/조합,institution
+INST_0366,한국수산자원공단,공사/공단,institution
+INST_0367,한국언론진흥재단,기타기관,institution
+INST_0368,한국에너지공단,공사/공단,institution
+INST_0369,한국에너지기술평가원,기타기관,institution
+INST_0370,한국엔지니어링협회,협회/조합,institution
+INST_0371,한국여성정책연구원,연구기관,institution
+INST_0372,한국예탁결제원,금융기관,institution
+INST_0373,한국은행,금융기관,institution
+INST_0374,한국인터넷진흥원,기타기관,institution
+INST_0375,한국자산관리공사,공사/공단,institution
+INST_0376,한국장애인개발원,연구기관,institution
+INST_0377,한국장애인고용공단,공사/공단,institution
+INST_0378,한국저작권위원회,기타기관,institution
+INST_0379,한국전기공사협회,협회/조합,institution
+INST_0380,한국전기산업연구원,연구기관,institution
+INST_0381,한국전기안전공사,공사/공단,institution
+INST_0382,한국전력거래소,기타기관,institution
+INST_0383,한국전력공사,공사/공단,institution
+INST_0384,한국전시산업진흥회,협회/조합,institution
+INST_0385,한국조세재정연구원,연구기관,institution
+INST_0386,한국주택금융공사,공사/공단,institution
+INST_0387,한국지방재정공제회,협회/조합,institution
+INST_0388,한국지질자원연구원,연구기관,institution
+INST_0389,한국직업능력연구원,연구기관,institution
+INST_0390,한국철강협회,협회/조합,institution
+INST_0391,한국철도공사,공사/공단,institution
+INST_0392,한국청소년정책연구원,연구기관,institution
+INST_0393,한국청소년활동진흥원,연구기관,institution
+INST_0394,한국한의학연구원,연구기관,institution
+INST_0395,한국행정연구원,연구기관,institution
+INST_0396,한국형사·법무정책연구원,연구기관,institution
+INST_0397,한국환경공단,공사/공단,institution
+INST_0398,한국환경산업기술원,연구기관,institution
+INST_0399,해양경찰청,중앙행정기관,institution
+INST_0400,해양수산부,중앙행정기관,institution
+INST_0401,해외건설협회,협회/조합,institution
+INST_0402,행정안전부,중앙행정기관,institution
+INST_0403,환경부,중앙행정기관,institution
