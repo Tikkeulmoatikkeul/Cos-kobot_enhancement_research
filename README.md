@@ -1,20 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=10&amp;height=200&amp;text=Kobot%20v.1.5%20enhancement%20research&amp;fontSize=50&amp;animation=twinkling&amp;fontAlign=68&amp;fontAlignY=36)
-![header](https://capsule-render.vercel.app/api?type=rect&theme=speech&text=Hello%20there!&fontAlign=30&fontSize=40&desc=Welcome%20to%20my%20repo&descAlign=65&descAlignY=50&height=120)
-<p align="left">
-  <!-- 말풍선 본문 -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&theme=speech
-  &text=Kobot%20v.1.5%20enhancement%20research
-  &desc=제%20README에%20오신%20걸%20환영해요
-  &fontSize=28
-  &fontAlign=30
-  &descAlign=60
-  &descAlignY=55
-  &height=100" />
-
-  <!-- 말풍선 꼬리 -->
-  <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/TriangleArrow-Down.svg" width="40"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=10&amp;height=200&amp;text=Kobot%20v.1.5%20enhancement%20research&amp;fontSize=50&amp;fontAlign=68&amp;fontAlignY=36)
 
 
 
