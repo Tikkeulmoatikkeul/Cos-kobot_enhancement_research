@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&amp;color=0000FFCC&amp;customColorList=10&amp;height=200&amp;text=Kobot%20v.1.5%0Aenhancement%20research&amp;fontSize=50&amp;fontAlign=68&amp;fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=Kobot%20v.1.5%0Aenhancement%20research&fontSize=50&fontAlign=68&fontAlignY=36&fontColor=0000FFCC)
 
 
 
