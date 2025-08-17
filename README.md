@@ -1,35 +1,39 @@
-# 코봇 1.5 개선방안 연구
+# Kobot v.1.5 enhancement research
 
-## 개요
-통계사용 증진을 목적으로 통계청에서 출시한 생성형 AI 코봇의 개선점을 제시
+## Overview
+Proposed improvements for Kobot, a generative AI service launched by Statistics Korea to promote statistical usage.
+This project was conducted as part of the 2025 1st Youth Internship Program, in which five members of the Statistical Service Innovation Task Force participated. The topic is closely related to the interns' main tasks-building and curating training data for Kobot-which served as a strong motivation for team members to take part in this project.
 
-## 일정
-- 5/8(목) 킥오프 회의
-- 6/19(목) 중간발표
-- 8/26, 9/4 최종발표
+## Timeline
+- May 8 (Thu): Kick-off meeting
+- June 19 (Thu): Mid-term presentation
+- Sept 5 (Fri): Final presentation
 
-## 0. 문제점 찾기
-- 내부 이용자 의견
-- 설문조사 결과
+## 0. User Insights
+- Feedback from internal users
+- Hands-on usage
+- Survey results
 
-## 1. UI/UX
-- figma 화면 제시
-- 변경사항에 대한 사용자 의견
+## 1. UI/UX Improvement
+- Added features: Monthly popular statistics and related resource reccommendations
+- Presented Figma screens for the main page, result page, Term explanation panel, and help & FAQ, including screens for the newly added features
+- Modified response format to include key summary, representative figures, and context/purpose of statistics
 
 ## 2. Prompt Engineering
-- 질문-응답 분석
-- 질문 정제 프롬프트 템플릿 제작
-  - config.yaml에 위치
-  - 대상정보 증강 템플릿
-  - 시간정보 명시 템플릿
+- Development of question guides from the user perspective
+  - Analysis of responses by question type, including diversified time expressions, comparative/choice questions, and sensitivity to specific keywords
+- Creation of prompt templates for question refinement
+  - target_augmentation_template
+  - time_normalization_template
 
-## 3. Graph Database
-- node
-  - 통계노드: node_survey.csv (완성)
-  - 통계표노드 : node_table.csv
-  - 통계주기노드 : node_period.csv
-- edge
-  - 고민.....
+## 3. Graph search with VDB
+- Proposed combining graph traversal techniques with the existing VDB-based RAG system
+- Created six nodes based on shared information-Statistics, Tables, Field, Institution, Document, Target
+- Developed and applied templates for attribution extraction:
+  - survey_classification_template
+  - criteria_extraction_template
+  - target_extraction_template
+
   
 
 
