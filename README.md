@@ -1,4 +1,5 @@
-# Kobot v.1.5 enhancement research
+![header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=10&amp;height=200&amp;text=Kobot%20v.1.5%20enhancement%20research&amp;fontSize=50&amp;animation=twinkling&amp;fontAlign=68&amp;fontAlignY=36)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=speech)
 
 ## Overview
 Proposed improvements for Kobot, a generative AI service launched by Statistics Korea to promote statistical usage.
@@ -33,7 +34,6 @@ This project was conducted as part of the 2025 1st Youth Internship Program, in 
   - survey_classification_template
   - criteria_extraction_template
   - target_extraction_template
-
   
 
 
