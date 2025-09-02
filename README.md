@@ -5,7 +5,7 @@
 Proposed improvements for Kobot, a generative AI service launched by Statistics Korea to promote statistical usage.
 This project was conducted as part of the 2025 1st Youth Internship Program, in which five members of the Statistical Service Innovation Task Force participated. The topic is closely related to the interns' main tasks-building and curating training data for Kobot-which served as a strong motivation for team members to take part in this project.
 
-<img width="1409" height="774" alt="Cos_enhanced_worflow" src="https://github.com/user-attachments/assets/e5dce57b-f0bd-4689-a115-ab981c5488df" />
+![Cos Enhanced Workflow](https://raw.githubusercontent.com/Tikkeulmoatikkeul/Cos-kobot_enhancement_research/main/Images/Enhanced_worflow.png)
 
 
 ## Timeline
