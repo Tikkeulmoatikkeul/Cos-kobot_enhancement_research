@@ -1,8 +1,13 @@
+
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=Kobot%20v.1.5%20Enhancement%20Research&desc=Statistical%20AI%20Chatbot&fontSize=45&fontAlign=50&fontAlignY=30&descAlign=50&descAlignY=48&fontcolor=00008B)
+![header](https://capsule-render.vercel.app/api?type=rect&color=ffffff55&height=200&text=Kobot%20v.1.5%20Enhancement%20Research&desc=Statistical%20AI%20Chatbot&fontSize=45&fontAlign=50&fontAlignY=30&descAlign=50&descAlignY=48&fontColor=00008B)
 
 ## Overview
 Proposed improvements for Kobot, a generative AI service launched by Statistics Korea to promote statistical usage.
 This project was conducted as part of the 2025 1st Youth Internship Program, in which five members of the Statistical Service Innovation Task Force participated. The topic is closely related to the interns' main tasks-building and curating training data for Kobot-which served as a strong motivation for team members to take part in this project.
+
+<img width="1920" height="1080" alt="Cos - 0810복사본 (1)" src="https://github.com/user-attachments/assets/6a0cbcab-463e-4a28-8834-e49cf383e660" />
+
 
 ## Timeline
 - May 8 (Thu): Kick-off meeting
