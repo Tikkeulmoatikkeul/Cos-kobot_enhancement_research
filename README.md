@@ -1,6 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=Kobot%20v.1.5%20Enhancement%20Research&desc=Statistical%20AI%20Chatbot&fontSize=45&fontAlign=50&fontAlignY=30&descAlign=50&descAlignY=48&fontcolor=00008B)
-![header](https://capsule-render.vercel.app/api?type=rect&color=ffffff55&height=200&text=Kobot%20v.1.5%20Enhancement%20Research&desc=Statistical%20AI%20Chatbot&fontSize=45&fontAlign=50&fontAlignY=30&descAlign=50&descAlignY=48&fontColor=00008B)
+![header](https://capsule-render.vercel.app/api?type=rect&color=ffffff55&height=200&text=Kobot%20v.1.5%20Enhancement%20Research&desc=Statistical%20AI%20Chatbot&fontSize=45&fontAlign=50&fontAlignY=30&descAlign=50&descAlignY=48&fontcolor=00008B)
 
 ## Overview
 Proposed improvements for Kobot, a generative AI service launched by Statistics Korea to promote statistical usage.
